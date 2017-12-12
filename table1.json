@@ -1,0 +1,1281 @@
+[{
+		"hex": "00",
+		"opcode": "BRK",
+		"mode": ""
+	},
+	{
+		"hex": "01",
+		"opcode": "ORA",
+		"mode": "(Indirect, X)"
+	},
+	{
+		"hex": "02",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "03",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "04",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "05",
+		"opcode": "ORA",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "06",
+		"opcode": "ASL",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "07",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "08",
+		"opcode": "PHP",
+		"mode": ""
+	},
+	{
+		"hex": "09",
+		"opcode": "ORA",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "0A",
+		"opcode": "ASL",
+		"mode": "Accumulator"
+	},
+	{
+		"hex": "0B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "0C",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "0D",
+		"opcode": "ORA",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "0E",
+		"opcode": "ASL",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "0F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "10",
+		"opcode": "BPL",
+		"mode": ""
+	},
+	{
+		"hex": "11",
+		"opcode": "ORA",
+		"mode": "(Indirect), Y"
+	},
+	{
+		"hex": "12",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "13",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "14",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "15",
+		"opcode": "ORA",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "16",
+		"opcode": "ASL",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "17",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "18",
+		"opcode": "CLC",
+		"mode": ""
+	},
+	{
+		"hex": "19",
+		"opcode": "ORA",
+		"mode": "Absolute, Y"
+	},
+	{
+		"hex": "1A",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "1B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "1C",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "1D",
+		"opcode": "ORA",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "1E",
+		"opcode": "ASL",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "1F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "20",
+		"opcode": "JSR",
+		"mode": ""
+	},
+	{
+		"hex": "21",
+		"opcode": "AND",
+		"mode": "(Indirect, X)"
+	},
+	{
+		"hex": "22",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "23",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "24",
+		"opcode": "BIT",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "25",
+		"opcode": "AND",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "26",
+		"opcode": "ROL",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "27",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "28",
+		"opcode": "PLP",
+		"mode": ""
+	},
+	{
+		"hex": "29",
+		"opcode": "AND",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "2A",
+		"opcode": "ROL",
+		"mode": "Accumulator"
+	},
+	{
+		"hex": "2B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "2C",
+		"opcode": "BIT",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "2D",
+		"opcode": "AND",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "2E",
+		"opcode": "ROL",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "2F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "30",
+		"opcode": "BMI",
+		"mode": ""
+	},
+	{
+		"hex": "31",
+		"opcode": "AND",
+		"mode": "(Indirect), Y"
+	},
+	{
+		"hex": "32",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "33",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "34",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "35",
+		"opcode": "AND",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "36",
+		"opcode": "ROL",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "37",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "38",
+		"opcode": "SEC",
+		"mode": ""
+	},
+	{
+		"hex": "39",
+		"opcode": "AND",
+		"mode": "Absolute, Y"
+	},
+	{
+		"hex": "3A",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "3B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "3C",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "3D",
+		"opcode": "AND",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "3E",
+		"opcode": "ROL",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "3F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "40",
+		"opcode": "RTI",
+		"mode": ""
+	},
+	{
+		"hex": "41",
+		"opcode": "EOR",
+		"mode": "(Indirect, X)"
+	},
+	{
+		"hex": "42",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "43",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "44",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "45",
+		"opcode": "EOR",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "46",
+		"opcode": "LSR",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "47",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "48",
+		"opcode": "PHA",
+		"mode": ""
+	},
+	{
+		"hex": "49",
+		"opcode": "EOR",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "4A",
+		"opcode": "LSR",
+		"mode": "Accumulator"
+	},
+	{
+		"hex": "4B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "4C",
+		"opcode": "JMP",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "4D",
+		"opcode": "EOR",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "4E",
+		"opcode": "LSR",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "4F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "50",
+		"opcode": "BVC",
+		"mode": ""
+	},
+	{
+		"hex": "51",
+		"opcode": "EOR",
+		"mode": "(Indirect), Y"
+	},
+	{
+		"hex": "52",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "53",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "54",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "55",
+		"opcode": "EOR",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "56",
+		"opcode": "LSR",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "57",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "58",
+		"opcode": "CLI",
+		"mode": ""
+	},
+	{
+		"hex": "59",
+		"opcode": "EOR",
+		"mode": "Absolute, Y"
+	},
+	{
+		"hex": "5A",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "5B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "5C",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "5D",
+		"opcode": "EOR",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "5E",
+		"opcode": "LSR",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "5F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "60",
+		"opcode": "RTS",
+		"mode": ""
+	},
+	{
+		"hex": "61",
+		"opcode": "ADC",
+		"mode": "(Indirect, X)"
+	},
+	{
+		"hex": "62",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "63",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "64",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "65",
+		"opcode": "ADC",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "66",
+		"opcode": "ROR",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "67",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "68",
+		"opcode": "PLA",
+		"mode": ""
+	},
+	{
+		"hex": "69",
+		"opcode": "ADC",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "6A",
+		"opcode": "ROR",
+		"mode": "Accumulator"
+	},
+	{
+		"hex": "6B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "6C",
+		"opcode": "JMP",
+		"mode": "Indirect"
+	},
+	{
+		"hex": "6D",
+		"opcode": "ADC",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "6E",
+		"opcode": "ROR",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "6F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "70",
+		"opcode": "BVS",
+		"mode": ""
+	},
+	{
+		"hex": "71",
+		"opcode": "ADC",
+		"mode": "(Indirect), Y"
+	},
+	{
+		"hex": "72",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "73",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "74",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "75",
+		"opcode": "ADC",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "76",
+		"opcode": "ROR",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "77",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "78",
+		"opcode": "SEI",
+		"mode": ""
+	},
+	{
+		"hex": "79",
+		"opcode": "ADC",
+		"mode": "Absolute, Y"
+	},
+	{
+		"hex": "7A",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "7B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "7C",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "7D",
+		"opcode": "ADC",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "7E",
+		"opcode": "ROR",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "7F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "80",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "81",
+		"opcode": "STA",
+		"mode": "(Indirect, X)"
+	},
+	{
+		"hex": "82",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "83",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "84",
+		"opcode": "STY",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "85",
+		"opcode": "STA",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "86",
+		"opcode": "STX",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "87",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "88",
+		"opcode": "DEY",
+		"mode": ""
+	},
+	{
+		"hex": "89",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "8A",
+		"opcode": "TXA",
+		"mode": ""
+	},
+	{
+		"hex": "8B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "8C",
+		"opcode": "STY",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "8D",
+		"opcode": "STA",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "8E",
+		"opcode": "STX",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "8F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "90",
+		"opcode": "BCC",
+		"mode": ""
+	},
+	{
+		"hex": "91",
+		"opcode": "STA",
+		"mode": "(Indirect), Y"
+	},
+	{
+		"hex": "92",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "93",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "94",
+		"opcode": "STY",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "95",
+		"opcode": "STA",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "96",
+		"opcode": "STX",
+		"mode": "Zero Page, Y"
+	},
+	{
+		"hex": "97",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "98",
+		"opcode": "TYA",
+		"mode": ""
+	},
+	{
+		"hex": "99",
+		"opcode": "STA",
+		"mode": "Absolute, Y"
+	},
+	{
+		"hex": "9A",
+		"opcode": "TXS",
+		"mode": ""
+	},
+	{
+		"hex": "9B",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "9C",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "9D",
+		"opcode": "STA",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "9E",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "9F",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "A0",
+		"opcode": "LDY",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "A1",
+		"opcode": "LDA",
+		"mode": "(Indirect, X)"
+	},
+	{
+		"hex": "A2",
+		"opcode": "LDX",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "A3",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "A4",
+		"opcode": "LDY",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "A5",
+		"opcode": "LDA",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "A6",
+		"opcode": "LDX",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "A7",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "A8",
+		"opcode": "TAY",
+		"mode": ""
+	},
+	{
+		"hex": "A9",
+		"opcode": "LDA",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "AA",
+		"opcode": "TAX",
+		"mode": ""
+	},
+	{
+		"hex": "AB",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "AC",
+		"opcode": "LDY",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "AD",
+		"opcode": "LDA",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "AE",
+		"opcode": "LDX",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "AF",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "B0",
+		"opcode": "BCS",
+		"mode": ""
+	},
+	{
+		"hex": "B1",
+		"opcode": "LDA",
+		"mode": "(Indirect), Y"
+	},
+	{
+		"hex": "B2",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "B3",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "B4",
+		"opcode": "LDY",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "B5",
+		"opcode": "LDA",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "B6",
+		"opcode": "LDX",
+		"mode": "Zero Page, Y"
+	},
+	{
+		"hex": "B7",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "B8",
+		"opcode": "CLV",
+		"mode": ""
+	},
+	{
+		"hex": "B9",
+		"opcode": "LDA",
+		"mode": "Absolute, Y"
+	},
+	{
+		"hex": "BA",
+		"opcode": "TSX",
+		"mode": ""
+	},
+	{
+		"hex": "BB",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "BC",
+		"opcode": "LDY",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "BD",
+		"opcode": "LDA",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "BE",
+		"opcode": "LDX",
+		"mode": "Absolute, Y"
+	},
+	{
+		"hex": "BF",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "C0",
+		"opcode": "CPY",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "C1",
+		"opcode": "CMP",
+		"mode": "(Indirect, X)"
+	},
+	{
+		"hex": "C2",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "C3",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "C4",
+		"opcode": "CPY",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "C5",
+		"opcode": "CMP",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "C6",
+		"opcode": "DEC",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "C7",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "C8",
+		"opcode": "INY",
+		"mode": ""
+	},
+	{
+		"hex": "C9",
+		"opcode": "CMP",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "CA",
+		"opcode": "DEX",
+		"mode": ""
+	},
+	{
+		"hex": "CB",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "CC",
+		"opcode": "CPY",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "CD",
+		"opcode": "CMP",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "CE",
+		"opcode": "DEC",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "CF",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "D0",
+		"opcode": "BNE",
+		"mode": ""
+	},
+	{
+		"hex": "D1",
+		"opcode": "CMP",
+		"mode": "(Indirect), Y"
+	},
+	{
+		"hex": "D2",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "D3",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "D4",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "D5",
+		"opcode": "CMP",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "D6",
+		"opcode": "DEC",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "D7",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "D8",
+		"opcode": "CLD",
+		"mode": ""
+	},
+	{
+		"hex": "D9",
+		"opcode": "CMP",
+		"mode": "Absolute, Y"
+	},
+	{
+		"hex": "DA",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "DB",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "DC",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "DD",
+		"opcode": "CMP",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "DE",
+		"opcode": "DEC",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "DF",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "E0",
+		"opcode": "CPX",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "E1",
+		"opcode": "SBC",
+		"mode": "(Indirect, X)"
+	},
+	{
+		"hex": "E2",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "E3",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "E4",
+		"opcode": "CPX",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "E5",
+		"opcode": "SBC",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "E6",
+		"opcode": "INC",
+		"mode": "Zero Page"
+	},
+	{
+		"hex": "E7",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "E8",
+		"opcode": "INX",
+		"mode": ""
+	},
+	{
+		"hex": "E9",
+		"opcode": "SBC",
+		"mode": "Immediate"
+	},
+	{
+		"hex": "EA",
+		"opcode": "NOP",
+		"mode": ""
+	},
+	{
+		"hex": "EB",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "EC",
+		"opcode": "CPX",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "ED",
+		"opcode": "SBC",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "EE",
+		"opcode": "INC",
+		"mode": "Absolute"
+	},
+	{
+		"hex": "EF",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "F0",
+		"opcode": "BEQ",
+		"mode": ""
+	},
+	{
+		"hex": "F1",
+		"opcode": "SBC",
+		"mode": "(Indirect), Y"
+	},
+	{
+		"hex": "F2",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "F3",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "F4",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "F5",
+		"opcode": "SBC",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "F6",
+		"opcode": "INC",
+		"mode": "Zero Page, X"
+	},
+	{
+		"hex": "F7",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "F8",
+		"opcode": "SED",
+		"mode": ""
+	},
+	{
+		"hex": "F9",
+		"opcode": "SBC",
+		"mode": "Absolute, Y"
+	},
+	{
+		"hex": "FA",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "FB",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "FC",
+		"opcode": "",
+		"mode": ""
+	},
+	{
+		"hex": "FD",
+		"opcode": "SBC",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "FE",
+		"opcode": "INC",
+		"mode": "Absolute, X"
+	},
+	{
+		"hex": "FF",
+		"opcode": "",
+		"mode": ""
+	}
+]
